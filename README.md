@@ -3,7 +3,7 @@
 ## **About**
 I'm building Eraysr, my first Python project. Learning a new language has its benefits, so I've taken the advice to learn Python. Coming from C#, I'm enjoying the cleaner syntax and simplicity of Python so far. I'm looking forward to seeing where this project takes me and how it'll help me grow as a developer.
 
-Eraysr is a Python-based tool designed to help users simulate the secure erasure of files and directories. It is particularly useful for scenarios such as:
+Eraysr is a Python-based tool designed to help users securely erase files and directories. It is particularly useful for scenarios such as:
 - Safely handling temporary files, including sensitive documents.
 - Preparing devices for repurposing or disposal.
 - Practicing or testing secure deletion processes without affecting actual data.
@@ -75,6 +75,7 @@ Planned updates include:
 - Actual secure deletion functionality with data overwriting.
 - Advanced file filtering options.
 - User-friendly logging and reporting.
+- UI
 
 ---
 
