@@ -27,5 +27,5 @@ def pretend_secure_delete_directory(directory_path, passes=3):
 
 
 # Set your directory path here for testing
-directory_path = "C:\\Users\\HoobaLou\\Pictures"
+directory_path = "C:\\Users\\deaton\\Documents"
 pretend_secure_delete_directory(directory_path, passes=3)
