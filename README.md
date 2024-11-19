@@ -32,7 +32,7 @@ This repository includes code that demonstrates how to simulate file overwrites,
 
 2. Edit the script to specify your target directory. Replace:
    ```python
-   directory_path = "C:\\Users\\HoobaLou\\Pictures"
+   directory_path = "C:\\Users\\deaton\\Documents"
    ```
    with the path to your desired directory.
 
@@ -48,13 +48,13 @@ This repository includes code that demonstrates how to simulate file overwrites,
 ## **Example Output**
 When the script is run, you will see progress statements like:
 ```
-Starting overwrite simulation for: C:\Users\HoobaLou\Pictures\example.jpg
+Starting overwrite simulation for: C:\Users\deaton\Documents\example.odt
 File size: 123456 bytes
 Last modified: Thu Nov 16 10:30:00 2023
 Pass 1/3: Simulating overwrite...
 Pass 2/3: Simulating overwrite...
 Pass 3/3: Simulating overwrite...
-Pretend deletion complete for: C:\Users\HoobaLou\Pictures\example.jpg
+Pretend deletion complete for: C:\Users\deaton\Documents\example.odt
 ==================================================
 ```
 
