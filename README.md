@@ -1,4 +1,4 @@
-# Eraysr: Securely Simulate File Overwriting and Deletion
+# Eraysr: Secure File Overwriting and Deletion, with Simulate Option
 
 ## **About**
 Eraysr is a Python-based tool designed to help users simulate the secure erasure of files and directories. It is particularly useful for scenarios such as:
